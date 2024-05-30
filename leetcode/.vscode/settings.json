@@ -1,5 +1,6 @@
 {
 	"codeium.enableConfig": {
 		"go": false
-	}
+	},
+	"cSpell.words": ["leetcode", "nums"]
 }
