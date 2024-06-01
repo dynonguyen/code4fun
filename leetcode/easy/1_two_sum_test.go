@@ -17,15 +17,16 @@ func TestTwoSum(t *testing.T) {
 	}
 
 	for _, tc := range testCases {
-		actual := TwoSumHashMap(tc.nums, tc.target)
+		actual := twoSum(tc.nums, tc.target)
 
 		slices.Sort(actual)
 		slices.Sort(tc.expected)
 
 		if !slices.Equal(actual, tc.expected) {
 			t.Errorf("FAILED => Expected: %v, Actual: %v", tc.expected, actual)
-		} else {
-			t.Logf("PASS => Expected: %v, Actual: %v", tc.expected, actual)
+			continue
 		}
+
+		t.Logf("PASS => Input: %v, %v", tc.nums, tc.target)
 	}
 }

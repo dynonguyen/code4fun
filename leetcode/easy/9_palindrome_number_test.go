@@ -27,11 +27,12 @@ func TestPalindromeNumber(t *testing.T) {
 	}
 
 	for _, tc := range testCases {
-		if actual := IsPalindrome(tc.x); actual != tc.expected {
+		if actual := isPalindrome(tc.x); actual != tc.expected {
 			t.Errorf("FAILED => Input: %v, Expected: %v, Actual: %v", tc.x, tc.expected, actual)
-		} else {
-			t.Logf("PASS => Input: %v", tc.x)
+			continue
 		}
+
+		t.Logf("PASS => Input: %v", tc.x)
 	}
 
 }

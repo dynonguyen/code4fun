@@ -7,7 +7,7 @@ n = number of digits
 Time: O(n)
 Space: O(n)
 */
-func IsPalindromeBad(x int) bool {
+func isPalindromeBad(x int) bool {
 	if x < 0 {
 		return false
 	}
@@ -38,7 +38,7 @@ n = number of digits
 Time: O(n) -> O(n / 2)
 Space: O(1)
 */
-func IsPalindrome(x int) bool {
+func isPalindrome(x int) bool {
 	if x < 0 {
 		return false
 	}

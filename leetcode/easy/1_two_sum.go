@@ -2,7 +2,7 @@
 package easy
 
 // Bad solution: two loops O(n^2)
-func TwoSumWithLoops(nums []int, target int) []int {
+func twoSumWithLoops(nums []int, target int) []int {
 	len := len(nums)
 
 	for i := 0; i < len-1; i++ {
@@ -17,7 +17,7 @@ func TwoSumWithLoops(nums []int, target int) []int {
 }
 
 // Good solution: Hashmap O(n) => Main solution
-func TwoSumHashMap(nums []int, target int) []int {
+func twoSum(nums []int, target int) []int {
 	m := make(map[int]int) // map[value][index]
 
 	for i, value := range nums {
