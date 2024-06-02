@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func TestRemoveDuplicatesSorted(t *testing.T) {
+func Test26RemoveDuplicatesSorted(t *testing.T) {
 	testCases := []struct {
 		nums         []int
 		expected     int

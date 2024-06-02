@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func TestPalindromeNumber(t *testing.T) {
+func Test9PalindromeNumber(t *testing.T) {
 	testCases := []struct {
 		x        int
 		expected bool

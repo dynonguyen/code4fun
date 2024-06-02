@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func TestIsValidParentheses(t *testing.T) {
+func Test20IsValidParentheses(t *testing.T) {
 	testCases := []struct {
 		s        string
 		expected bool

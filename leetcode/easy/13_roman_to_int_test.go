@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func TestRomanToInt(t *testing.T) {
+func Test13RomanToInt(t *testing.T) {
 	testCases := []struct {
 		s        string
 		expected int

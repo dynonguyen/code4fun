@@ -7,6 +7,7 @@ n = number of digits
 Time: O(n)
 Space: O(n)
 */
+//lint:ignore U1000 Ignore unused function temporarily for debugging
 func isPalindromeBad(x int) bool {
 	if x < 0 {
 		return false

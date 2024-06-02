@@ -2,6 +2,8 @@
 package easy
 
 // Bad solution: two loops O(n^2)
+//
+//lint:ignore U1000 Ignore unused function temporarily for debugging
 func twoSumWithLoops(nums []int, target int) []int {
 	len := len(nums)
 
