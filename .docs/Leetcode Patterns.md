@@ -14,8 +14,8 @@
   - Các bài toán về Palindrome (chuỗi đối xứng).
 
 - **Bài mẫu:**:
-  - 125. Valid Palindrome
-  - 167. Two Sum II - Input Array Is Sorted
+  - 125_Valid Palindrome
+  - 167_Two Sum II - Input Array Is Sorted
 
 </details>
 
@@ -34,8 +34,8 @@
   - Tìm đoạn con có số phần tử khác nhau trong chuỗi.
 
 - **Bài mẫu:**:
-  - 3. Longest Substring Without Repeating Characters
-  - 209. Minimum Size Subarray Sum
+  - 3_Longest Substring Without Repeating Characters
+  - 209_Minimum Size Subarray Sum
 
 </details>
 
@@ -54,8 +54,8 @@
   - Tìm chuỗi con hoặc dãy số khác nhau.
 
 - **Bài mẫu:**:
-  - 1. Two Sum
-  - 560. Subarray Sum Equals K
+  - 1_Two Sum
+  - 560_Subarray Sum Equals K
 
 </details>
 
@@ -74,8 +74,8 @@
   - Tìm giá trị cực đại hoặc cực tiểu.
 
 - **Bài mẫu:**:
-  - 704. Binary Search
-  - 33. Search in Rotated Sorted Array
+  - 704_Binary Search
+  - 33_Search in Rotated Sorted Array
 
 </details>
 
@@ -94,9 +94,9 @@
   - Bài toán về knapsack (cái túi).
 
 - **Bài mẫu:**:
-  - 70. Climbing Stairs
-  - 55. Jump Game
-  - 198. House Robber
+  - 70_Climbing Stairs
+  - 55_Jump Game
+  - 198_House Robber
 
 </details>
 
@@ -115,10 +115,10 @@
   - Tìm k phần tử khác nhau.
 
 - **Bài mẫu:**:
-  - 215. Kth Largest Element in an Array
-  - 347. Top K Frequent Elements
-  - 692. Top K Frequent Words
-  - 703. Kth Largest Element in a Stream
+  - 215_Kth Largest Element in an Array
+  - 347_Top K Frequent Elements
+  - 692_Top K Frequent Words
+  - 703_Kth Largest Element in a Stream
 
 </details>
 
@@ -136,8 +136,8 @@
   - Các bài toán về tổ hợp, hoán vị, sudoku, hoặc giải mê cung.
 
 - **Bài mẫu:**:
-  - 46. Permutations
-  - 78. Subsets
+  - 46_Permutations
+  - 78_Subsets
 
 </details>
 
@@ -155,9 +155,9 @@
   - Bài toán về chọn hoạt động, hoặc chọn phần tử lớn nhất/nhỏ nhất.
 
 - **Bài mẫu:**:
-  - 55. Jump Game
-  - 45. Jump Game II
-  - 435. Non-overlapping Intervals
+  - 55_Jump Game
+  - 45_Jump Game II
+  - 435_Non-overlapping Intervals
 
 </details>
 
@@ -177,9 +177,9 @@
 
 - **Bài mẫu:**
 
-  - 141. Linked List Cycle
-  - 142. Linked List Cycle II
-  - 202. Happy Number
+  - 141_Linked List Cycle
+  - 142_Linked List Cycle II
+  - 202_Happy Number
 
 </details>
 
@@ -199,9 +199,9 @@
 
 - **Bài mẫu:**
 
-  - 56. Merge Intervals
-  - 57. Insert Interval
-  - 435. Non-overlapping Intervals
+  - 56_Merge Intervals
+  - 57_Insert Interval
+  - 435_Non-overlapping Intervals
 
 </details>
 
@@ -221,8 +221,8 @@
 
 - **Bài mẫu:**
 
-  - 102. Binary Tree Level Order Traversal
-  - 127. Word Ladder
+  - 102_Binary Tree Level Order Traversal
+  - 127_Word Ladder
 
 </details>
 
@@ -242,9 +242,9 @@
 
 - **Bài mẫu:**
 
-  - 200. Number of Islands
-  - 130. Surrounded Regions
-  - 104. Maximum Depth of Binary Tree
+  - 200_Number of Islands
+  - 130_Surrounded Regions
+  - 104_Maximum Depth of Binary Tree
 
 </details>
 
@@ -264,9 +264,9 @@
 
 - **Bài mẫu:**
 
-  - 208. Implement Trie (Prefix Tree)
-  - 211. Design Add and Search Words Data Structure
-  - 648. Replace Words
+  - 208_Implement Trie (Prefix Tree)
+  - 211_Design Add and Search Words Data Structure
+  - 648_Replace Words
 
 </details>
 
@@ -284,8 +284,8 @@
   - Bài toán về xác định thành phần liên thông.
 
 - **Bài mẫu:**:
-  - 323. Number of Connected Components in an Undirected Graph
-  - 547. Number of Provinces
+  - 323_Number of Connected Components in an Undirected Graph
+  - 547_Number of Provinces
 
 </details>
 
@@ -303,8 +303,8 @@
   - Lên kế hoạch thực hiện các nhiệm vụ với điều kiện trước sau.
 
 - **Bài mẫu:**:
-  - 207. Course Schedule
-  - 210. Course Schedule II
+  - 207_Course Schedule
+  - 210_Course Schedule II
 
 </details>
 
@@ -322,7 +322,7 @@
   - Các bài toán về dãy số hoặc kiểm tra tính chất của số nhị phân.
 
 - **Bài mẫu:**:
-  - 136. Single Number
-  - 338. Counting Bits
+  - 136_Single Number
+  - 338_Counting Bits
 
 </details>
