@@ -1,20 +1,74 @@
+# 😗 Basic
+
+## Sort
+
+<details>
+<summary>View more</summary>
+
+### Bubble Sort
+
+### Selection Sort
+
+### Insertion Sort
+
+### Merge Sort
+
+### Quick Sort
+
+### Heap Sort
+
+</details>
+
+## Search
+
+<details>
+<summary>View more</summary>
+
+### Linear Search
+
+### Binary Search
+
+## Depth First Search (DFS)
+
+## Breadth First Search (BFS)
+
+</details>
+
+## Brute Force
+
+## Divide and Conquer
+
+## Dynamic Programming
+
+## Greedy
+
+## Recursion
+
+## Branch and Bound
+
+## Hashing
+
+# 🥲 Advanced
+
 ## Two Pointers (Iterators)
 
 ## Fast and Slow pointers
 
 ## Sliding Window
 
-## Divide and Conquer
-
-## Dynamic Programming
+## Bit Manipulation
 
 ## Backtracking
 
-## Brute Force
+## Monotonic Stack/Queue
 
-## The Greedy Method
+## Trie
 
-## Branch and Bound
+## String Matching: KMP, Rolling Hash
+
+## Union Find (Disjoint Set)
+
+## Graph Algorithms
 
 ## Hill Climbing
 
@@ -29,10 +83,6 @@
 ## In-place reversal of linked list
 
 ## Topological Sort
-
-## Binary Tree BFS
-
-## Binary Tree DFS
 
 ## Top K Elements
 
