@@ -1,6 +1,6 @@
-# [Algorithms](./Algorithms.md)
+# [Algorithms](./docs/Algorithms.md)
 
-# [Solutions](./Solutions.md)
+# [Solutions](./docs/Solutions.md)
 
 # References
 
