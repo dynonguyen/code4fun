@@ -13,7 +13,7 @@
   - Bài toán đảo ngược chuỗi.
   - Các bài toán về Palindrome (chuỗi đối xứng).
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 125_Valid Palindrome
   - 167_Two Sum II - Input Array Is Sorted
 
@@ -33,7 +33,7 @@
   - Tìm đoạn con có tổng lớn nhất.
   - Tìm đoạn con có số phần tử khác nhau trong chuỗi.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 3_Longest Substring Without Repeating Characters
   - 209_Minimum Size Subarray Sum
 
@@ -53,7 +53,7 @@
   - Tìm cặp phần tử có tổng bằng một giá trị cho trước.
   - Tìm chuỗi con hoặc dãy số khác nhau.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 1_Two Sum
   - 560_Subarray Sum Equals K
 
@@ -73,7 +73,7 @@
   - Tìm phần tử trong mảng sắp xếp.
   - Tìm giá trị cực đại hoặc cực tiểu.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 704_Binary Search
   - 33_Search in Rotated Sorted Array
 
@@ -93,7 +93,7 @@
   - Bài toán về tối ưu hóa chuỗi con hoặc tính số lượng cách.
   - Bài toán về knapsack (cái túi).
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 70_Climbing Stairs
   - 55_Jump Game
   - 198_House Robber
@@ -114,7 +114,7 @@
   - Tìm k phần tử lớn nhất hoặc nhỏ nhất.
   - Tìm k phần tử khác nhau.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 215_Kth Largest Element in an Array
   - 347_Top K Frequent Elements
   - 692_Top K Frequent Words
@@ -135,7 +135,7 @@
 
   - Các bài toán về tổ hợp, hoán vị, sudoku, hoặc giải mê cung.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 46_Permutations
   - 78_Subsets
 
@@ -154,7 +154,7 @@
 
   - Bài toán về chọn hoạt động, hoặc chọn phần tử lớn nhất/nhỏ nhất.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 55_Jump Game
   - 45_Jump Game II
   - 435_Non-overlapping Intervals
@@ -283,7 +283,7 @@
 
   - Bài toán về xác định thành phần liên thông.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 323_Number of Connected Components in an Undirected Graph
   - 547_Number of Provinces
 
@@ -302,7 +302,7 @@
 
   - Lên kế hoạch thực hiện các nhiệm vụ với điều kiện trước sau.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 207_Course Schedule
   - 210_Course Schedule II
 
@@ -321,7 +321,7 @@
 
   - Các bài toán về dãy số hoặc kiểm tra tính chất của số nhị phân.
 
-- **Bài mẫu:**:
+- **Bài mẫu:**
   - 136_Single Number
   - 338_Counting Bits
 

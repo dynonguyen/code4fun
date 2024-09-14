@@ -1,5 +1,6 @@
 // 1. Two sum
 // https://leetcode.com/problems/two-sum
+
 package easy
 
 // Bad solution: two loops O(n^2)
