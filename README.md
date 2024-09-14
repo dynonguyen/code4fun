@@ -1,6 +1,8 @@
-# [Algorithms](./docs/Algorithms.md)
+<div align="center"><img src="./.docs/img/cover.jpg" height="300px" /></div>
 
-# [Solutions](./docs/Solutions.md)
+# [Algorithms](./.docs/Algorithms.md)
+
+# [Solutions](./.docs/Solutions.md)
 
 # References
 
