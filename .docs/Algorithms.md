@@ -1,38 +1,6 @@
-# 😗 Basic
-
 ## Sort
 
-<details>
-<summary>View more</summary>
-
-### Bubble Sort
-
-### Selection Sort
-
-### Insertion Sort
-
-### Merge Sort
-
-### Quick Sort
-
-### Heap Sort
-
-</details>
-
-## Search
-
-<details>
-<summary>View more</summary>
-
-### Linear Search
-
-### Binary Search
-
-## Depth First Search (DFS)
-
-## Breadth First Search (BFS)
-
-</details>
+## Search and Traversal
 
 ## Brute Force
 
@@ -47,8 +15,6 @@
 ## Branch and Bound
 
 ## Hashing
-
-# 🥲 Advanced
 
 ## Two Pointers (Iterators)
 
