@@ -12,7 +12,20 @@ var romanMap = map[byte]int{
 	'M': 1000,
 }
 
-// O(n)
+//lint:ignore U1000 Ignore unused function temporarily for debugging
+/* Solution 1: Loop + Hashmap ✅
+
+Algorithm:
+	- Loop qua các ký tự từ trái sang phải
+	- Kiểm tra giá trị vị trí hiện tại (current i) và ký tự bên phải (next i+1)
+		+ If current < next thì sum += next - current -> i+=2
+		+ Else sum += current -> i++
+
+Complexity Analysis:
+	- Time: O(n)
+	- Space: O(1)
+
+*/
 func romanToInt(s string) int {
 	sum := 0
 

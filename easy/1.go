@@ -1,5 +1,6 @@
 // 1. Two sum
 // https://leetcode.com/problems/two-sum
+// Pattern: Hashmap
 
 package easy
 
@@ -30,7 +31,7 @@ func twoSum1(nums []int, target int) []int {
 }
 
 //lint:ignore U1000 Ignore unused function temporarily for debugging
-/* Solution 2: Hash map
+/* Solution 2: Hash map ✅
 
 Algorithm:
   - Sử dụng hash map với key = arr[i] và value = i

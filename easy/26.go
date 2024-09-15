@@ -2,8 +2,16 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 package easy
 
-// Time: O(n)
-// Space: O(1)
+//lint:ignore U1000 Ignore unused function temporarily for debugging
+/* Solution 1: Brute force
+
+Algorithm:
+
+Complexity Analysis:
+	- Time: O(n)
+	- Space: O(1)
+
+*/
 func removeDuplicates(nums []int) int {
 	i := 0
 

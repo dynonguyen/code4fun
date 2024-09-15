@@ -8,7 +8,21 @@ var bracket = map[byte]byte{
 	'}': '{',
 }
 
-// O(n), n = length of s
+//lint:ignore U1000 Ignore unused function temporarily for debugging
+/* Solution 1: Stack + Hashmap
+
+Note:
+	- n = length of s
+
+Algorithm:
+	- Nếu là ký tự mở thì push và stack
+	- Nếu ký tự đóng thì pop từ stack ra, kiểm tra trong hashmap xem có match với ký tự mở không, nếu không thì return false
+
+Complexity Analysis:
+	- Time: O(n)
+	- Space: O(n)
+
+*/
 func isValidParentheses(s string) bool {
 	stack := []byte{}
 
