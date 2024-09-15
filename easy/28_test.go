@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func Test28FindIndex(t *testing.T) {
+func Test28(t *testing.T) {
 	testCases := []struct {
 		haystack, needle string
 		expected         int

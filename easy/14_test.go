@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func Test14LongestCommonPrefix(t *testing.T) {
+func Test14(t *testing.T) {
 	testCases := []struct {
 		strs     []string
 		expected string

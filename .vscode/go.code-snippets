@@ -1,0 +1,28 @@
+{
+  "Unused function": {
+    "scope": "go",
+    "prefix": "unused",
+    "body": [
+      "//lint:ignore U1000 Ignore unused function temporarily for debugging"
+    ],
+    "description": "Mark a function as unused"
+  },
+  "Comment solution": {
+    "scope": "go",
+    "prefix": "gen-solution",
+    "body": [
+      "//lint:ignore U1000 Ignore unused function temporarily for debugging",
+      "/* Solution $1",
+      "",
+      "Algorithm:",
+      "  - $2",
+      "",
+      "Complexity Analysis:",
+      "  - Time: N/A",
+      "  - Space: N/A",
+      "",
+      "*/"
+    ],
+    "description": "Comment solution"
+  }
+}

@@ -1,12 +1,10 @@
-<div align="center"><img src="./.docs/img/cover.jpg" height="300px" /></div>
+<div align="center"><img src="./docs/img/cover.jpg" height="300px" /></div>
 
-# [Data Structures](./.docs/Data%20Structures.md)
+# [Data Structures](./docs/Data%20Structures.md)
 
-# [Algorithms](./.docs/Algorithms.md)
+# [Algorithms](./docs/Algorithms.md)
 
-# [Solutions](./.docs/Solutions.md)
-
-# [Leetcode Patterns](./.docs/Leetcode%20Patterns.md)
+# [Leetcode Patterns](./docs/Leetcode%20Patterns.md)
 
 # References
 

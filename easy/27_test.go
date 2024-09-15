@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func Test27RemoveElement(t *testing.T) {
+func Test27(t *testing.T) {
 	testCases := []struct {
 		nums         []int
 		val          int

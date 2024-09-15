@@ -22,7 +22,7 @@ func nodeToSortedSlice(node *ListNode) (s []int) {
 	return
 }
 
-func Test21MergeTwoSortedList(t *testing.T) {
+func Test21(t *testing.T) {
 	testCases := []struct {
 		list1, list2, expected *ListNode
 	}{

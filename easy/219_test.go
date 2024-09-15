@@ -2,7 +2,7 @@ package easy
 
 import "testing"
 
-func Test219ContainNearbyDuplicate(t *testing.T) {
+func Test219(t *testing.T) {
 	testCases := []struct {
 		nums     []int
 		k        int
