@@ -8,10 +8,9 @@
     "description": "Mark a function as unused"
   },
   "Comment solution": {
-    "scope": "go",
+    "scope": "go,typescript",
     "prefix": "gen-solution",
     "body": [
-      "//lint:ignore U1000 Ignore unused function temporarily for debugging",
       "/* Solution $1",
       "",
       "Algorithm:",

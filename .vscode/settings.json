@@ -1,5 +1,5 @@
 {
 	"codeium.enableConfig": { "go": false, "typescript": false },
-	"github.copilot.enable": { "go": false, "typescript": false },
+	"github.copilot.enable": { "go": true, "typescript": false },
 	"cSpell.words": ["leetcode", "nums"]
 }
