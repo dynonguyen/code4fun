@@ -36,6 +36,7 @@
 - **Bài mẫu:**
   - 3_Longest Substring Without Repeating Characters
   - 209_Minimum Size Subarray Sum
+  - 643_Maximum Average Subarray I
 
 </details>
 
