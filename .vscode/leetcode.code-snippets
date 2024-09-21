@@ -20,5 +20,15 @@
       "*/"
     ],
     "description": "Comment solution"
+  },
+  "Generate TS test case": {
+    "prefix": "gen-tests",
+    "body": [
+      "test('Case $1', () => {",
+      "  expect($2).toEqual($3)",
+      "})",
+      "$4"
+    ],
+    "description": "Generate TS test case"
   }
 }

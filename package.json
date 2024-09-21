@@ -1,10 +1,11 @@
 {
-	"name": "code4fun",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dynonguyen/code4fun"
-	},
-	"devDependencies": {
-		"@types/bun": "latest"
-	}
+  "name": "code4fun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dynonguyen/code4fun"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.6.2"
+  }
 }
