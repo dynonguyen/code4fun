@@ -22,7 +22,7 @@
     "description": "Comment solution"
   },
   "Generate TS test case": {
-    "prefix": "gen-tests",
+    "prefix": "tc",
     "body": [
       "test('Case $1', () => {",
       "  expect($2).toEqual($3)",
