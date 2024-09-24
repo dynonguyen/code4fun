@@ -1,3 +1,6 @@
+// 520. Detect Capital
+// https://leetcode.com/problems/detect-capital
+
 // Pattern: string
 export function detectCapitalUse(word: string): boolean {
 	let nLower = 0,
