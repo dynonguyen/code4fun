@@ -1,5 +1,7 @@
 // 36. Valid Sudoku
 // https://leetcode.com/problems/valid-sudoku/
+
+/* Solution Array + Hashmap */
 export function isValidSudoku(board: string[][]): boolean {
 	for (let i = 0; i < 9; ++i) {
 		const existed = new Map<string, boolean>();
