@@ -45,7 +45,7 @@ Complexity Analysis:
   - Space: O(n)
 
 */
-export function climbStairs(n: number): number {
+export function climbStairs3(n: number): number {
 	if (n <= 2) return n;
 
 	let result = 0;
@@ -57,4 +57,26 @@ export function climbStairs(n: number): number {
 	}
 
 	return result;
+}
+
+/* Solution: DP Tabulation - Space Optimized
+
+Complexity Analysis:
+  - Time: O(n)
+  - Space: O(1)
+
+*/
+export function climbStairs(n: number): number {
+	if (n <= 2) return n;
+
+	let s1 = 1,
+		s2 = 2;
+
+	for (let i = 2; i < n; ++i) {
+		const tmp = s2;
+		s2 = s1 + s2;
+		s1 = tmp;
+	}
+
+	return s2;
 }
