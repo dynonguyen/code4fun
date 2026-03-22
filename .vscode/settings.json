@@ -1,5 +1,6 @@
 {
-	"codeium.enableConfig": { "go": false, "typescript": false },
-	"github.copilot.editor.enableAutoCompletions": false,
-	"cSpell.words": ["leetcode", "nums"]
+  "codeium.enableConfig": { "go": false, "typescript": false },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "cursor.cpp.disabledLanguages": ["go", "typescript"],
+  "cSpell.words": ["leetcode", "nums"]
 }
